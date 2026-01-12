@@ -53,7 +53,6 @@ The objective is to demonstrate **financial analysis, KPI design, and decision s
 The dashboard provides a **clear executive view of financial health**, supporting budgeting decisions, cost control, and runway monitoring.
 
 This project reflects a **finance / FP&A / controlling use case**, not just a technical BI exercise.
-<img width="1442" height="815" alt="image" src="https://github.com/user-attachments/assets/993057d0-1b44-4c1a-aeeb-dda38e5bb3d3" />
 
 ---
 
